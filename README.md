@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently learning Ruby and loving it!
+ At the moment I'm learning Ruby and loving it!

@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a full-stack web developer in training!
+
+Currently studying at Coder Academy in Melbourne.
 <!--
 **michael-adams-dev/michael-adams-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
